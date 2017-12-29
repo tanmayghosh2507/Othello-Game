@@ -1,4 +1,4 @@
-package com.java.lab2;
+package com.java.game;
 
 import java.io.BufferedReader;
 import java.io.IOException;
